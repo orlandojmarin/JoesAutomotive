@@ -73,7 +73,7 @@ public class JoesAutomotive extends Application
     {   
     
         // create a label control called welcomeMessage
-        welcomeMessage = new Label("Welcome to Joe's Automotive! "
+       welcomeMessage = new Label("Welcome to Joe's Automotive! "
                 + "Please select the maintenance services that you "
                 + "would like for your car.");
         
